@@ -37,7 +37,7 @@ body{
 }
 
 .box:hover{
-    transform: translateY(-15px);
+    transform: translateY(-15px) scale(1.02);
 }
 
 .box img{
