@@ -16,6 +16,7 @@ body{
     font-size: 25px;
     text-align: center;
     font-family: "Lucida Handwriting", cursive;
+    text-shadow: rgba(190,247,244,0.9) 2px 2px 22px;
 }
 
 .content{
